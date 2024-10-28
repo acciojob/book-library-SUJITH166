@@ -2,20 +2,21 @@
 .book-library{
 	background-color:#ffffff;
 }
-.book-library header{
+.book-library h1{
 	text-align:center;
 }
 .book{
 	text-align:center;
 	
 }
-.book p{
+.book h2{
 	/* justify-content:start; */
 	text-align:left;
 	margin-bottom:0px;
 	
 }
 #au{
+	text-align:left;
 	margin-top:0px;
 	color:#777777;
 }
