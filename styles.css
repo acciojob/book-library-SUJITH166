@@ -1,1 +1,29 @@
 /*  your css code here. If applicable */
+.book-library{
+	background-color:#ffffff;
+}
+.book-library header{
+	text-align:center;
+}
+.book{
+	text-align:center;
+	
+}
+.book p{
+	/* justify-content:start; */
+	text-align:left;
+	margin-bottom:0px;
+	
+}
+#au{
+	margin-top:0px;
+	color:#777777;
+}
+#but{
+	width:100%;
+	background-color:#2ecc71;
+	margin-bottom:15px
+}
+body{
+	background-color:#f8f8f8;
+}
